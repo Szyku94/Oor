@@ -1,0 +1,12 @@
+C:\Users\Przem\Desktop\ChatServer\Client\bin\Debug\Client.exe.config
+C:\Users\Przem\Desktop\ChatServer\Client\bin\Debug\Client.exe
+C:\Users\Przem\Desktop\ChatServer\Client\bin\Debug\Client.pdb
+C:\Users\Przem\Desktop\ChatServer\Client\bin\Debug\ServerWcfService.dll
+C:\Users\Przem\Desktop\ChatServer\Client\obj\x86\Debug\Client.csprojAssemblyReference.cache
+C:\Users\Przem\Desktop\ChatServer\Client\obj\x86\Debug\Client.frmClient.resources
+C:\Users\Przem\Desktop\ChatServer\Client\obj\x86\Debug\Client.Properties.Resources.resources
+C:\Users\Przem\Desktop\ChatServer\Client\obj\x86\Debug\Client.csproj.GenerateResource.cache
+C:\Users\Przem\Desktop\ChatServer\Client\obj\x86\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Przem\Desktop\ChatServer\Client\obj\x86\Debug\Client.csproj.CopyComplete
+C:\Users\Przem\Desktop\ChatServer\Client\obj\x86\Debug\Client.exe
+C:\Users\Przem\Desktop\ChatServer\Client\obj\x86\Debug\Client.pdb

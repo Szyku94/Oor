@@ -1,0 +1,6 @@
+C:\Users\Przem\Desktop\ChatServer\ChatLibrary\bin\Debug\ChatLibrary.dll
+C:\Users\Przem\Desktop\ChatServer\ChatLibrary\bin\Debug\ChatLibrary.pdb
+C:\Users\Przem\Desktop\ChatServer\ChatLibrary\obj\Debug\ChatLibrary.csprojAssemblyReference.cache
+C:\Users\Przem\Desktop\ChatServer\ChatLibrary\obj\Debug\ChatLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Przem\Desktop\ChatServer\ChatLibrary\obj\Debug\ChatLibrary.dll
+C:\Users\Przem\Desktop\ChatServer\ChatLibrary\obj\Debug\ChatLibrary.pdb
